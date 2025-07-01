@@ -28,6 +28,6 @@ winsound – For playing buzzer sound (no install needed, built-in for Windows)<
 - Draws a red bounding box and plays a continuous buzzer sound until eyes reopen  
 # File Requirements  
 - (sound.wav): A short buzzer ".wav" file placed in the same folder as the script  
-- (main.py): Your driver drowsiness detection script  
+- (driver_drowsiness_detection.py): Your driver drowsiness detection script  
 # Conclusion  
 Hope this project helps you understand and build intelligent real-time computer vision systems. It's a small step toward safer driving. Contributions and feedback are always welcome!
