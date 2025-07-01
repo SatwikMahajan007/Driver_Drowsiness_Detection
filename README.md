@@ -15,7 +15,7 @@ Ensure you have Python installed (recommended: Python 3.9+). You’ll also need 
 opencv-python – For video capture and drawing overlays  
 (pip install opencv-python)  
 mediapipe – For facial landmark detection  
-(pip install mediapipe) 
+(pip install mediapipe)
 numpy – For numerical operations  
 (pip install numpy)
 scipy – For calculating distances (used in EAR formula)  
