@@ -12,15 +12,15 @@ Hey Reader! This project is a real-time driver drowsiness detection system that 
 # Installation  
 Ensure you have Python installed (recommended: Python 3.9+). You’ll also need some essential libraries for image processing, facial landmark detection, and sound playback. The recommended way to install them is using the commands below.
 # Required Libraries
-opencv-python – For video capture and drawing overlays  
-(pip install opencv-python)  
-mediapipe – For facial landmark detection  
-(pip install mediapipe)
-numpy – For numerical operations  
-(pip install numpy)
-scipy – For calculating distances (used in EAR formula)  
-(pip install scipy) 
-winsound – For playing buzzer sound (no install needed, built-in for Windows)  
+opencv-python – For video capture and drawing overlays<br>
+(pip install opencv-python)<br>  
+mediapipe – For facial landmark detection<br>  
+(pip install mediapipe)<br>
+numpy – For numerical operations<br>  
+(pip install numpy)<br>
+scipy – For calculating distances (used in EAR formula)<br>  
+(pip install scipy)<br>
+winsound – For playing buzzer sound (no install needed, built-in for Windows)<br>  
 # How It Works  
 - Starts webcam feed and detects face and eye landmarks  
 - Calculates Eye Aspect Ratio (EAR) every frame  
