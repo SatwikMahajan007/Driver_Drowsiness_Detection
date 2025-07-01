@@ -4,7 +4,7 @@ Hey Reader! This project is a real-time driver drowsiness detection system that 
 # Features 
 - Face and Eye Detection: Uses MediaPipe to identify facial landmarks  
 - Eye Aspect Ratio (EAR): Calculates EAR to detect drowsy eye closures  
-- Red/Green Bounding Box: Red when drowsy, green when alert  
+- Red/Green Bounding Box: Red when drowsy, green when good  
 - Buzzer Alert: Plays a buzzer sound when drowsiness is detected  
 - Real-Time Monitoring: Continuously evaluates driver state from webcam feed  
 - Clean Interface: Simple visual output using OpenCV  
